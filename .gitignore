@@ -250,3 +250,7 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+src/NuGetPkg/lib/
+src/NuGetPkg/*.nupkg
+*nuget.exe
