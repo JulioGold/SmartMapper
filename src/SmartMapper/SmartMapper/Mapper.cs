@@ -1,7 +1,4 @@
-﻿using System.Linq;
-using System.Threading.Tasks;
-
-namespace SmartMapper
+﻿namespace SmartMapper
 {
     public static class Mapper
     {
@@ -34,6 +31,7 @@ namespace SmartMapper
             }
         }
 
+#if DEBUG
         // Deixados como private pois ainda é preciso melhorar esses métodos adicionando verificação se o tipo dos objetos é o mesmo...
         private static void AutoLoadLinq(object source, object target)
         {
@@ -71,5 +69,6 @@ namespace SmartMapper
                 }
             });
         }
+#endif
     }
 }

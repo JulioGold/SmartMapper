@@ -59,7 +59,8 @@ cat1: Id:22, Name:Rex, Age:3, Observation:
   
 ### News  
     
-- 0.0.1 Created the project, added *SmartMapper.Mapper.AutoLoad* method.
+- 0.0.1 Created the project, added *SmartMapper.Mapper.AutoLoad* method.  
+- 0.0.2 Just removed unused piece of code to decrease the package size.  
   
 Danke  
   

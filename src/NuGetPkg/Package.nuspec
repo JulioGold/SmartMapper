@@ -4,14 +4,14 @@
     <id>SmartMapper</id>
     <title>SmartMapper</title>
     <description>Copy property values from an object to another with a easy way.</description>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <authors>JulioGold</authors>
     <owners>JulioGold</owners>
     <licenseUrl>https://raw.githubusercontent.com/JulioGold/SmartMapper/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/JulioGold/SmartMapper</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!--<releaseNotes>Project created.</releaseNotes>-->
-    <copyright>Copyright 2016</copyright>
+    <copyright>Copyright 2017</copyright>
     <tags>mapper copy load property</tags>
     <!--<dependencies>
       <dependency id="Microsoft.AspNet.WebApi.Core" version="5.2.3"  />
