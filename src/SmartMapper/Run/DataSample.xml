@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<animals>
+  <dogs id="22">
+    <name>Rex</name>
+    <age>3</age>
+    <description>Rex is strong!</description>
+  </dogs>
+  <cats>
+  </cats>
+</animals>
